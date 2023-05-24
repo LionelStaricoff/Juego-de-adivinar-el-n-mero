@@ -1,0 +1,37 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: 2s all;
+}
+
+
+
+ 
+form{
+    background: linear-gradient(70deg,aqua , violet , aqua );
+    height: 600px;
+    text-align: center;
+    font-size: 2em;
+    padding-top: 6em;
+    
+}
+
+form:first-child{
+    text-shadow:  5px 5px 5px black;
+
+}
+form input{
+    width: 13em;
+    font-size: 1em;
+    margin: .3em 0;
+    border-radius: 15px;
+    padding: .3em;
+    background: radial-gradient( rgb(196, 105, 196) 70px, rgba(0, 255, 255, 0.651));
+}
+
+form input:hover{
+  transform: scale(1.1);
+
+}
