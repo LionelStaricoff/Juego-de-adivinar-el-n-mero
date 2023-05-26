@@ -9,7 +9,7 @@
 
 
  
-form{
+div{
     background: linear-gradient(70deg,aqua , violet , aqua );
     height: 600px;
     text-align: center;
@@ -18,11 +18,11 @@ form{
     
 }
 
-form:first-child{
+div:first-child{
     text-shadow:  5px 5px 5px black;
 
 }
-form input{
+div input{
     width: 13em;
     font-size: 1em;
     margin: .3em 0;
@@ -31,7 +31,7 @@ form input{
     background: radial-gradient( rgb(196, 105, 196) 70px, rgba(0, 255, 255, 0.651));
 }
 
-form input:hover{
+div input:hover{
   transform: scale(1.1);
 
 }
