@@ -2,15 +2,14 @@
 <h2> Juego  realizado en js, html y css </h2>
 <pre>Se utiliza manipulación del Dom  para traer los elementos del HTML
      y guardarlo en una variable.
+     
      traer el botón:
-<code> let boton = document.querySelector("#boton"); </code>
-
+     <p><code> let boton = document.querySelector("#boton"); </code></p>
      Traer el input:
-<code> let input = document.querySelector("#dato"); </code>
-
+     <p><code> let input = document.querySelector("#dato"); </code></p>
+     
    Traer todos los parrafos y guardardarlos en un arreglo:
-<code> let pElegir = document.querySelectorAll("p"); </code>
-</pre>
+   <p><code> let pElegir = document.querySelectorAll("p"); </code></p></pre>
  
  <h2>Se inicializa el juego haciendo click en el botón <code> boton.addEventListener("click", adivinar); </code></h2>
  <pre>La funcion adivinar genera un número aleatoreo y lo guarda en la       variable <code>numeroRandom</code>,
