@@ -29,5 +29,5 @@ Por último verifica si el número aleatorio es igual al número colocado en el 
 <h2><a href="https://www.youtube.com/watch?v=cfIPnYoEXNI"> Mira como fnciona: <img src="https://github.com/LionelStaricoff/conversor/blob/main/youtube.png?raw=true" width="100" height="100"> </a></h2> 
 
 
-<p>&copy https://linkedin.com/in/lionel-staricoff</p>
+<p>&copy <a href="https://linkedin.com/in/lionel-staricoff">[Website](https://linkedin.com/in/lionel-staricoff)https://linkedin.com/in/lionel-staricoff</a> </p>
    
