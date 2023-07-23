@@ -1,4 +1,5 @@
 function jugar(){
+    debugger;
     let dato =parseInt( document.querySelector("#input").value );
 
     let datoAleatoreo = Math.round( Math.random()*10);
