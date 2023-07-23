@@ -26,7 +26,7 @@ Por último verifica si el número aleatorio es igual al número colocado en el 
 <h2><code> boton.addEventListener("click", rotarDardo); </code></h2>
 <pre>Por ultimo esta función verifica el número aleatorio que salio y cambia la clase de la imagen flecha para que la rote según el número<pre>
 
-<h2><a href="https://www.youtube.com/watch?v=cfIPnYoEXNI"> Mira como fnciona: <img src="https://www.youtube.com/channel/UCI2D8NvLj-AChUOK1TlPtgg" alt="enlace a youtube" width="100" height="100"> </a></h2> 
+<h2><a href="https://www.youtube.com/watch?v=cfIPnYoEXNI"> Mira como fnciona: <img src="https://github.com/LionelStaricoff/conversor/blob/main/youtube.png?raw=true" width="100" height="100"> </a></h2> 
 
 
 <p>&copy https://linkedin.com/in/lionel-staricoff</p>
